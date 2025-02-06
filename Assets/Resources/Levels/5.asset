@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc6caabf55cf9bc4d9a6c6ae25c67cb0, type: 3}
+  m_Name: 5
+  m_EditorClassIdentifier: 
+  HealthPlayer: 150
+  SpeedPlayer: 20
+  MapID: Map_5
+  cashRewards: 5000
+  backGroundMusic: {fileID: 8300000, guid: f3c7c840867111246a8764af26f44ed2, type: 3}
